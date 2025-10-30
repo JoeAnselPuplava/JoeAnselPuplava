@@ -12,5 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about differential privacy, cyber security, and games!
 - 📫 How to reach me: https://www.linkedin.com/in/joe-ansel-puplava/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love League of Legends
 
