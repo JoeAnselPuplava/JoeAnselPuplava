@@ -6,10 +6,8 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on creating my own NAS server
-- 🌱 I’m currently learning at Tufts University
-- 👯 I’m looking to collaborate on video games
-- 🤔 I’m looking for help with cyber security and game development
-- 💬 Ask me about differential privacy, cyber security, and games!
+- 🌱 I’m currently getting my Master's in Computer Engineering at Tufts University
+- 💬 Ask me about compilers, embedded security, and games!
 - 📫 How to reach me: https://www.linkedin.com/in/joe-ansel-puplava/
 - 😄 Pronouns: He/Him
 
